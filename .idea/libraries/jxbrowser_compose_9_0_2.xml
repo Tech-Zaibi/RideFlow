@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="jxbrowser-compose-9.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-compose-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-javafx-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-kotlin-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-native-image-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-swing-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-swt-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-win64-arm-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-win64-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-win32-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-mac-arm-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-mac-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-linux64-arm-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-linux64-9.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jxbrowser-9.0.2-cross-desktop-win_mac_linux/lib/jxbrowser-9.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
